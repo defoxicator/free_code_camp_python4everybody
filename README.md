@@ -3,5 +3,5 @@ There will be published excercises done during [freeCodeCamp](freecodecamp.org) 
 List of excercises with a _short_ description:
  * ex_02_02.py  
 The program is asking for name input and then welcomes the user.
- * ex_02_03.py
+ * ex_02_03.py  
 The program is asking for worked hours and payment per hours and gives the amount of money paid.
