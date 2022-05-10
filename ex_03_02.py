@@ -1,5 +1,5 @@
-# Excercise 03_02
-# Addition of new features to Excercise 03_01
+# Exercise 03_02
+# Addition of new features to Exercise 03_01
 loop = 0
 while loop == 0:
     try:
