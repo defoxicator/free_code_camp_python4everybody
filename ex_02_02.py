@@ -1,4 +1,4 @@
-# Excercise 02_02
+# Exercise 02_02
 
 name = input("Enter your name: ")
 print("Hello, "+name)
