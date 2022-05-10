@@ -1,5 +1,5 @@
-# Excercise 04_06
-# Rewriting the Excercise 03_02 to form a function
+# Exercise 04_06
+# Rewriting the Exercise 03_02 to form a function
 
 def computepay(hours, rate):
     try:
