@@ -15,3 +15,5 @@ Development of ex_03_01.py - added try/except statement to prevent non-numeric i
 Rewrite of ex_03_02.py to contain the script in a function and calling it with arguments: hours = 42 and rate = 42
  * ex_05_01.py  
 The program is asking for numeric input (non-numeric except "done" are treated as Wrong inputs) and after "done" command calculating sum, count and average of the inputted numbers.
+ * ex_06_05.py  
+There is a given string. The program searches for a number in the string, converts it to a float and then prints it.
