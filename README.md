@@ -10,4 +10,4 @@ Development of ex_02_03.py - added bonus_payment feature for hours worked beyond
  * ex_03_02.py  
 Development of ex_03_01.py - added try/except statement to prevent non-numeric input.
  * ex_04_06.py  
-Rewrite of ex_03_02.py to contain the script in a function and calling it.
+Rewrite of ex_03_02.py to contain the script in a function and calling it with arguments: hours = 42 and rate = 42
