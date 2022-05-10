@@ -1,5 +1,5 @@
 ## Python for Everybody course
-There will be published excercises done during [freeCodeCamp](freecodecamp.org) course titled _"Python for Everybody"_.  
+There will be published exercises done during [freeCodeCamp](freecodecamp.org) course titled _"Python for Everybody"_.  
 _**Mention:** This README.md file is also an excercise to write logs in Markdown_.
 
 List of excercises with a _short_ description:
