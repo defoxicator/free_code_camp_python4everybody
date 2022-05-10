@@ -1,5 +1,5 @@
-# Excercise 03_01
-# Addition of new features to Excercise 02_03
+# Exercise 03_01
+# Addition of new features to Exercise 02_03
 
 hours = float(input("Enter no. of hours: "))
 rate = float(input("Enter payment per hour: "))
