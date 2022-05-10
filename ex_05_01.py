@@ -1,4 +1,4 @@
-# Excercise 05_01
+# Exercise 05_01
 # Inputing numbers until "done" is the Input
 # Managing non=numeric input as errors
 # Printing sum, count and average
