@@ -19,4 +19,7 @@ The program is asking for numeric input (non-numeric except "done" are treated a
 There is a given string. The program searches for a number in the string, converts it to a float and then prints it.  
  * ex_07_01.py
 The program reads the file mbox_short.txt and prints it in uppercase.  
-_**Disclaimer:** For proper reading the file it needs to be in the same folder as the .py programm._
+_**Disclaimer:** For proper functioning of the program the mbox_short.txt needs to be downloaded and in the same folder as the .py programm._  
+ * ex_08.py  
+The program reads the file and searches for the day when the e-mail was recived.  
+_**Disclaimer:** For proper functioning of the program the mbox_short.txt needs to be downloaded and in the same folder as the .py programm._
