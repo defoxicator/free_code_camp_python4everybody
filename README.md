@@ -24,5 +24,5 @@ _**Disclaimer:** For proper functioning of the program the mbox_short.txt needs 
 The program reads the file and searches for the day when the e-mail was recived.  
 _**Disclaimer:** For proper functioning of the program the mbox_short.txt needs to be downloaded and in the same folder as the .py programm._  
  * ex_09.py  
-The program reads the file and searches for the most commonly appearing word.
+The program reads the file and searches for the most commonly appearing word.  
 _**Disclaimer:** For proper functioning of the program the index.txt or other .txt needs to be downloaded and in the same folder as the .py programm._
