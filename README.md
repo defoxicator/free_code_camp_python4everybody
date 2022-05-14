@@ -2,7 +2,9 @@
 There will be published exercises done during [freeCodeCamp](freecodecamp.org) course titled _"Python for Everybody"_.  
 _**Disclaimer:** This README.md file is also an excercise to write logs in Markdown_.
 
-List of excercises with a _short_ description:
+List of excercises with a _short_ description:  
+ * Project_01.py  
+Nice function which allows for arranging addition and subtraction problems of two numbers in a school-like way
  * ex_02_02.py  
 The program is asking for name input and then welcomes the user.
  * ex_02_03.py  
