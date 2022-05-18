@@ -31,5 +31,5 @@ _**Disclaimer:** For proper functioning of the program the index.txt or other .t
  * ex_10.py  
 The program reads the file and searches for the 5 most commonly appearing words.  
 _**Disclaimer:** For proper functioning of the program the index.txt or other .txt needs to be downloaded and in the same folder as the .py programm._
- * Music database.sql  
+ * db_music.sql  
 Basic SQL database created using **SQLite 3** containing music information 
