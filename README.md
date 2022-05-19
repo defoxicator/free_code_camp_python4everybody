@@ -4,7 +4,9 @@ _**Disclaimer:** This README.md file is also an excercise to write logs in Markd
 
 List of excercises with a _short_ description:  
  * Project_01.py  
-Nice function which allows for arranging addition and subtraction problems of two numbers in a school-like way
+Nice function which allows for arranging addition and subtraction problems of two numbers in a school-like way  
+ * Project_02.py  
+Function which takes input of actual hour and time duration and outputs hour after the time has passed with mention of duration in days. Optionally day can be inputted and the function will return the day after the time has passed.  
  * ex_02_02.py  
 The program is asking for name input and then welcomes the user.
  * ex_02_03.py  
