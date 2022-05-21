@@ -7,6 +7,8 @@ List of excercises with a _short_ description:
 Nice function which allows for arranging addition and subtraction problems of two numbers in a school-like way  
  * Project_02.py  
 Function which takes input of actual hour and time duration and outputs hour after the time has passed with mention of duration in days. Optionally day can be inputted and the function will return the day after the time has passed.  
+ * Project_03.py  
+Quite complicated project. It is budget app containing class for every category and displays a nice table containing spendings. Also there is a function which makes a console graph showing % rounded down to nearest 10 of the spendings between all the categories.  
  * ex_02_02.py  
 The program is asking for name input and then welcomes the user.
  * ex_02_03.py  
