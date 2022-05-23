@@ -9,6 +9,10 @@ Nice function which allows for arranging addition and subtraction problems of tw
 Function which takes input of actual hour and time duration and outputs hour after the time has passed with mention of duration in days. Optionally day can be inputted and the function will return the day after the time has passed.  
  * Project_03.py  
 Quite complicated project. It is budget app containing class for every category and displays a nice table containing spendings. Also there is a function which makes a console graph showing % rounded down to nearest 10 of the spendings between all the categories.  
+ * Project_04.py  
+Creating class for rectangle and child class for square and getting values for side lengths. Then you can calculate area, perimeter, diagonal and get the console visualisation of your creation.  
+ * Project_05.py  
+
  * ex_02_02.py  
 The program is asking for name input and then welcomes the user.
  * ex_02_03.py  
