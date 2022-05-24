@@ -3,16 +3,16 @@ There will be published exercises done during [freeCodeCamp](freecodecamp.org) c
 _**Disclaimer:** This README.md file is also an excercise to write logs in Markdown_.
 
 List of excercises with a _short_ description:  
- * Project_01.py  
+ * Project_01  
 Nice function which allows for arranging addition and subtraction problems of two numbers in a school-like way  
- * Project_02.py  
+ * Project_02  
 Function which takes input of actual hour and time duration and outputs hour after the time has passed with mention of duration in days. Optionally day can be inputted and the function will return the day after the time has passed.  
- * Project_03.py  
+ * Project_03  
 Quite complicated project. It is budget app containing class for every category and displays a nice table containing spendings. Also there is a function which makes a console graph showing % rounded down to nearest 10 of the spendings between all the categories.  
- * Project_04.py  
+ * Project_04  
 Creating class for rectangle and child class for square and getting values for side lengths. Then you can calculate area, perimeter, diagonal and get the console visualisation of your creation.  
- * Project_05.py  
-
+ * Project_05  
+Calculating probability of getting desired colored balls from the hat.
  * ex_02_02.py  
 The program is asking for name input and then welcomes the user.
  * ex_02_03.py  
